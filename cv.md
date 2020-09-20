@@ -1,4 +1,4 @@
-1. Maria Soldatenko
+1. `Maria Soldatenko`
 2. You can find me in Telegram: @maria_o_sol
 3. I'd like to become Junior JavaScript Developer. I've tried different schools to expand my knowledge.
 4. Now I already know how to create page using HTML and CSS. I also know how to work with git.
