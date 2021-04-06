@@ -1,1 +1,1 @@
-https://masolemia.github.io/rsschool-cv/cv
+https://masolemia.github.io/CV/cv
