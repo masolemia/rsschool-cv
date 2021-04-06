@@ -1,1 +1,1 @@
-https://masolemia.github.io/CV/cv
+https://masolemia.github.io/CV/
