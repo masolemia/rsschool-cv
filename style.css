@@ -1,7 +1,6 @@
 body{
 	display:block;
 	width:1000px;
-	height: 100vw;
 	background-image: linear-gradient(to right bottom, #00ccff, #3e0dc5);
 	color:#000080;
 	font-size: 18px;
@@ -13,22 +12,42 @@ body{
 
 main {
 	display: flex;
+	flex-direction: column;
 	justify-content: space-between;
-	align-items: center;
 }
 
-.information-block {
-	width: 780px;
+.personal{
+	display: flex;
+	justify-content: space-between;
 }
 
-.proper-name{
-	font-style: italic;
-}
-
-a {
-	color: #ffffff;
-}
-
-img{
+.personal img{
+	position: absolute;
+	left: 75%;
 	border:2px solid #000080;
+}
+
+.skills ul{
+	display: flex;
+	gap: 25px;
+}
+
+.projects__list{
+	display: grid;
+	grid-template-columns: 1fr 1fr 1fr;
+	list-style-type: none;
+}
+
+.project__item--process{
+	display: none;
+}
+
+.contacts{
+	list-style: none;
+	display: flex;
+	justify-content: space-around;
+}
+
+.contacts img{
+	border-radius: 50%;
 }
