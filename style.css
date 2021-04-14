@@ -35,7 +35,16 @@ main {
 .projects__list{
 	display: grid;
 	grid-template-columns: 1fr 1fr 1fr;
+	gap: 15px;
 	list-style-type: none;
+}
+
+.project__item{
+	text-align: center;
+}
+
+.project__item a{
+	color: white;
 }
 
 .project__item--process{
